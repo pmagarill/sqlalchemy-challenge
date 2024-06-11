@@ -1,1 +1,1 @@
-# sqlalchemy-challenge
+Climate analysis of Honolulu, HI
